@@ -1,10 +1,11 @@
 # Search Suggestion
 
-- Created a simple **Stock Details** application using the ReactJS and NextJs.
+- Created a simple **Stock Details** application using the ReactJS and NextJs with typescript.
 
 ## Highlights
 
 - React Hooks used for build react components.
+- Typescript Used.
 - Used NextJs API Routes.
 - No CSS libraries used.
 
